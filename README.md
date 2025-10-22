@@ -1,2 +1,2 @@
-# automated-script
-Automated Deployment Batch Script
+chmod +x deploy.sh 
+./deploy.sh
